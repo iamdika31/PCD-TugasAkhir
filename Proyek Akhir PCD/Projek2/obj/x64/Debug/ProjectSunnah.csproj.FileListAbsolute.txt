@@ -1,0 +1,113 @@
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\x64\concrt140.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\x64\cvextern.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\x64\msvcp140.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\x64\opencv_ffmpeg343_64.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\x64\vcruntime140.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\Projek2.exe.config
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\Projek2.exe
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\Projek2.pdb
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\Emgu.CV.UI.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\Emgu.CV.World.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\ZedGraph.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\Emgu.CV.UI.xml
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\Emgu.CV.World.xml
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\ZedGraph.xml
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\de\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\es\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\fr\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\hu\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\it\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\ja\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\pt\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\ru\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\sk\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\sv\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\tr\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\obj\x64\Debug\ProjectSunnah.csprojResolveAssemblyReference.cache
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\obj\x64\Debug\Projek2.FormMain.resources
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\obj\x64\Debug\Projek2.Properties.Resources.resources
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\obj\x64\Debug\ProjectSunnah.csproj.GenerateResource.Cache
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\obj\x64\Debug\ProjectSunnah.csproj.CoreCompileInputs.cache
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\obj\x64\Debug\Projek2.exe
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\Projek2 - Copy\Projek2\obj\x64\Debug\Projek2.pdb
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\x64\concrt140.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\x64\cvextern.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\x64\msvcp140.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\x64\opencv_ffmpeg343_64.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\x64\vcruntime140.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\Projek2.exe.config
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\Projek2.exe
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\Projek2.pdb
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\Emgu.CV.UI.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\Emgu.CV.World.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\ZedGraph.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\Emgu.CV.UI.xml
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\Emgu.CV.World.xml
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\ZedGraph.xml
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\de\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\es\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\fr\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\hu\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\it\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\ja\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\pt\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\ru\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\sk\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\sv\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\tr\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\obj\x64\Debug\ProjectSunnah.csprojResolveAssemblyReference.cache
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\obj\x64\Debug\Projek2.FormMain.resources
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\obj\x64\Debug\Projek2.Properties.Resources.resources
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\obj\x64\Debug\ProjectSunnah.csproj.GenerateResource.Cache
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\obj\x64\Debug\ProjectSunnah.csproj.CoreCompileInputs.cache
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\obj\x64\Debug\Projek2.exe
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\ProjectSunnah\Projek2\obj\x64\Debug\Projek2.pdb
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\x64\concrt140.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\x64\cvextern.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\x64\msvcp140.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\x64\opencv_ffmpeg343_64.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\x64\vcruntime140.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\Projek2.exe.config
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\Projek2.exe
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\Projek2.pdb
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\Emgu.CV.UI.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\Emgu.CV.World.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\ZedGraph.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\Emgu.CV.UI.xml
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\Emgu.CV.World.xml
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\ZedGraph.xml
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\de\ZedGraph.resources.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\es\ZedGraph.resources.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\fr\ZedGraph.resources.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\hu\ZedGraph.resources.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\it\ZedGraph.resources.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\ja\ZedGraph.resources.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\pt\ZedGraph.resources.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\ru\ZedGraph.resources.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\sk\ZedGraph.resources.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\sv\ZedGraph.resources.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\tr\ZedGraph.resources.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\obj\x64\Debug\ProjectSunnah.csprojAssemblyReference.cache
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\obj\x64\Debug\Projek2.FormMain.resources
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\obj\x64\Debug\Projek2.Properties.Resources.resources
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\obj\x64\Debug\ProjectSunnah.csproj.GenerateResource.cache
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\obj\x64\Debug\ProjectSunnah.csproj.CoreCompileInputs.cache
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\obj\x64\Debug\ProjectSunnah.csproj.CopyComplete
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\obj\x64\Debug\Projek2.exe
+D:\TIF\smt5\PCD\ProjectSunnah\Projek2\obj\x64\Debug\Projek2.pdb
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\PROJECTSUNNAHV2\Projek2\bin\x64\Debug\Projek2.exe.config
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\PROJECTSUNNAHV2\Projek2\bin\x64\Debug\Projek2.exe
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\PROJECTSUNNAHV2\Projek2\bin\x64\Debug\Projek2.pdb
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\PROJECTSUNNAHV2\Projek2\obj\x64\Debug\ProjectSunnah.csprojResolveAssemblyReference.cache
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\PROJECTSUNNAHV2\Projek2\obj\x64\Debug\Projek2.FormMain.resources
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\PROJECTSUNNAHV2\Projek2\obj\x64\Debug\Projek2.Properties.Resources.resources
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\PROJECTSUNNAHV2\Projek2\obj\x64\Debug\ProjectSunnah.csproj.GenerateResource.Cache
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\PROJECTSUNNAHV2\Projek2\obj\x64\Debug\ProjectSunnah.csproj.CoreCompileInputs.cache
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\PROJECTSUNNAHV2\Projek2\obj\x64\Debug\Projek2.exe
+E:\ASSIGNMENTS & LEARNING MATERIALS\PENGOLAHAN CITRA DIGITAL\ASSIGNMENTS\PROJECTSUNNAHV2\Projek2\obj\x64\Debug\Projek2.pdb
